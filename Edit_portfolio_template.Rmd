@@ -1,0 +1,11 @@
+---
+title: "Editing the Portfolio Template"
+author: "Benjamin Egan"
+date: "2025-04-28"
+output: html_document
+---
+
+```{r setup, echo = FALSE}
+library(tidyverse) 
+```
+
