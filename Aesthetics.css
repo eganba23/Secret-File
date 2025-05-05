@@ -4,13 +4,13 @@ body {
 }
 
 .navbar {
-  background-color: #cbd8e4 !important;
+  background-color: #00ff00 !important;
 }
 
 .navbar a {
-  color: #2b6777 !important;
+  color: #ff0000 !important;
 }
 
 h1, h2, h3 {
-  color: #2b6777;
+  color: #0000ff;
 }
