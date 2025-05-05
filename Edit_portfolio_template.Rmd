@@ -50,12 +50,12 @@ Located within this folder, there is a file called `Aesthetics.css`. To change t
 
 On the home page, you can add in links to both within your own website or to outside website (e.g. the course webpage, tidy Tuesday links, etc.). 
 
-For any link you want to embed into a file, you will place brackets [] directly in front of/touching parentheses (). The brackets will contain the corresponding words or phrases you want to be represented by the hyperlink while the parenthesis will contain the acutal link. For example, [This is the link for the data sceince homepage](https://datascience4psych.github.io/DataScience4Psych).
+**For any link** you want to embed into a file, you will place brackets [] directly in front of/touching parentheses (). The brackets will contain the corresponding words or phrases you want to be represented by the hyperlink while the parenthesis will contain the acutal link. For example, [This is the link for the data sceince homepage](https://datascience4psych.github.io/DataScience4Psych).
 
-As mentioned, you can also link to pages within the portfolio website. This will be the same process, but instead you'll link to the `.hmtl` file instead of a standard link [e.g. (p03.html), (p10.html)].
+As mentioned, you can also **link to other pages** within the portfolio website. This will be the same process, but instead you'll link to the `.hmtl` file instead of a standard link [e.g. (p03.html), (p10.html) ].
 
-Finally, you can link to other files (e.g. your resume/CV). I personally have only tried this with pdf files, but play around and see if you can include more complex files or folders. The key is to drop whatever file you are trying to link into the portfolio folder. This will work the same as before, but instead of a standard link you'll include the name of the file [e.g. (resume-4-12.pdf)].
+Finally, you can **link to other files** (e.g. your resume/CV). I personally have only tried this with pdf files, but play around and see if you can include more complex files or folders. The key is to drop whatever file you are trying to link into the portfolio folder. This will work the same as before, but instead of a standard link you'll include the name of the file [e.g. (resume-4-12.pdf) ].
 
 ### Adding images
 
-As you can see already, you can add in images to spice up your 
+As you can see already, you can add in images to spice up your portfolio pieces. The syntax will be similar to the links, but instead you'll include a ! before the brackets. If you want to see the full syntax, look at the image I included above.
